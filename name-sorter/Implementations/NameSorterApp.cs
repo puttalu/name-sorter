@@ -5,8 +5,11 @@ using System.Text;
 using System.IO;
 using System.Linq;
 
-namespace NameSorter
+namespace NameSort
 {
+    /// <summary>
+    /// Coordinates with all the components and gets the list sorted.
+    /// </summary>
     public class NameSorterApp
     {
         private readonly INameParser _nameParser;
@@ -20,6 +23,10 @@ namespace NameSorter
             _nameSorter = nameSorter;
         }
 
+        /// <summary>
+        /// Runs NameSorterApp. File Name input is taken from argument in CLI.
+        /// </summary>
+        /// <param name="args"></param>
         public void Run(string[] args)
         {
             if (args.Length != 1)

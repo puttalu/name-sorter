@@ -1,4 +1,4 @@
-﻿using NameSorter;
+﻿using NameSort;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;

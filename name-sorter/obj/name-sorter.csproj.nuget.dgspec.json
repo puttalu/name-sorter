@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj": {}
+    "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj": {
+    "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj",
+        "projectUniqueName": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj",
         "projectName": "name-sorter",
-        "projectPath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj",
+        "projectPath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj",
         "packagesPath": "C:\\Users\\arunr\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\obj\\",
+        "outputPath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

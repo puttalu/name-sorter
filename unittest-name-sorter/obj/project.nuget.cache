@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Y/qV7/J8nfH/sLsr2/zcfT2t8rBQUQuPzDPSsiMkGrtJiOOrvO0so8WeDDhhzj37DfsJqhfsUV+QSeX2vgFHw==",
+  "dgSpecHash": "0T96u+jNdPZYgketbHvyNFj9oxypKoQvGIVikMyVQYe5kn0eZi6fChj2X+PF1jDA6NrjxCL5ruV0yc0zwJUDAg==",
   "success": true,
-  "projectFilePath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
+  "projectFilePath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arunr\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\arunr\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
