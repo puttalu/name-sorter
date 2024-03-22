@@ -3922,11 +3922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
+      "projectUniqueName": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
       "projectName": "unittest-name-sorter",
-      "projectPath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
+      "projectPath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\unittest-name-sorter\\unittest-name-sorter.csproj",
       "packagesPath": "C:\\Users\\arunr\\.nuget\\packages\\",
-      "outputPath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\unittest-name-sorter\\obj\\",
+      "outputPath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\unittest-name-sorter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3947,8 +3947,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj": {
-              "projectPath": "C:\\Data\\Learn\\CSharp\\name-sorter\\name-sorter\\name-sorter\\name-sorter.csproj"
+            "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj": {
+              "projectPath": "C:\\Data\\Learn\\CSharp\\NameSort_CodeChallenge\\name-sorter\\name-sorter\\name-sorter.csproj"
             }
           }
         }

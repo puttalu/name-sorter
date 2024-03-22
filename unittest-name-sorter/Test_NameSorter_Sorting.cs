@@ -1,4 +1,4 @@
-﻿using NameSorter;
+﻿using NameSort;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -8,12 +8,12 @@ namespace unittest_name_sorter
 {
     public class Test_NameSorter_Sorting
     {
-        private NameSorter.NameSorter _nameSorter;
+        private NameSorter _nameSorter;
 
         [SetUp]
         public void Setup()
         {
-            _nameSorter = new NameSorter.NameSorter();
+            _nameSorter = new NameSorter();
         }
 
         /// <summary>

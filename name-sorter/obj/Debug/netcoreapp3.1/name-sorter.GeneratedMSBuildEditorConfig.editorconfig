@@ -1,5 +1,5 @@
 is_global = true
-build_property.RootNamespace = NameSorter
-build_property.ProjectDir = C:\Data\Learn\CSharp\name-sorter\name-sorter\name-sorter\
+build_property.RootNamespace = NameSort
+build_property.ProjectDir = C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\name-sorter\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

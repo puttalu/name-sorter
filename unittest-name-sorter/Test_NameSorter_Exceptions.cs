@@ -1,4 +1,4 @@
-﻿using NameSorter;
+﻿using NameSort;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -15,7 +15,7 @@ namespace unittest_name_sorter
         [SetUp]
         public void Setup()
         {
-            _nameSorterApp = new NameSorterApp(new NameParser(), new NameSorter.NameSorter());
+            _nameSorterApp = new NameSorterApp(new NameParser(), new NameSorter());
             _stringWriter = new StringWriter();
             Console.SetOut(_stringWriter);
         }

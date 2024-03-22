@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace NameSorter
+namespace NameSort
 {
     internal class Program
     {       

@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NameSorter
+namespace NameSort
 {
+    /// <summary>
+    /// Class representing nane, first and last names
+    /// </summary>
     public class Name
     {
         public string GivenName { get; }
@@ -15,7 +18,10 @@ namespace NameSorter
             LastName = lastName;
         }
 
-
+        /// <summary>
+        /// Returns the full name combining Last and Given names
+        /// </summary>
+        /// <returns></returns>
         public string ToFullName()
         {
             return GivenName + " " + LastName;
