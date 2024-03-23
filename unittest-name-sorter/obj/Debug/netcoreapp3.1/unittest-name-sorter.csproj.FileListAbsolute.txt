@@ -103,12 +103,12 @@ C:\Data\Learn\CSharp\name-sorter\name-sorter\unittest-name-sorter\bin\Debug\netc
 C:\Data\Learn\CSharp\name-sorter\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Data\Learn\CSharp\name-sorter\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Data\Learn\CSharp\name-sorter\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\name-sorter.deps.json
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\name-sorter.runtimeconfig.json
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\name-sorter.runtimeconfig.dev.json
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\name-sorter.exe
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\testhost.exe
-C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Data\Learn\CSharp\NameSort_CodeChallenge\name-sorter\unittest-name-sorter\bin\Debug\netcoreapp3.1\nunit.engine.dll
