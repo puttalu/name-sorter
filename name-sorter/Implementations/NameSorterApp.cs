@@ -36,10 +36,11 @@ namespace NameSort
             }
 
             string filename = args[0];
+                       
 
             try
-            {
-                var names = File.ReadAllLines(filename).Select(_nameParser.Parse);
+            {                
+                var names = File.ReadAllLines(filename).Where(line => line.Trim()!= string.Empty).Select(_nameParser.Parse);
                 var sortedNames = _nameSorter.Sort(names);
 
                 //Write The sorted list to output file and display on command line

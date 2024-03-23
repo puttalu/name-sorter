@@ -28,5 +28,18 @@ namespace unittest_name_sorter
             Assert.That(name.LastName, Is.EqualTo("Maman"));
 
         }
+
+        /// <summary>
+        /// To validate the flagging of invalid names. When there is only first or last name present.
+        /// </summary>
+        [Test]
+        public void TestParse_When_InvalidName()
+        {
+            var name = _nameParser.Parse("Puttalu");
+
+            Assert.That(name.GivenName, Is.EqualTo("<<Invalid Name Format>>"));
+            Assert.That(name.LastName, Is.EqualTo("Puttalu"));
+
+        }
     }
 }
